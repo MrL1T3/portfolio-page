@@ -1,17 +1,19 @@
 .page {
   padding: 5em;
   font-family: 'Courier New', Courier, monospace;
+  background-color:bisque;
 }
 
 .intro {
   color: blue;
   text-align: center;
+  margin: 5em;
 }
 
 .repos {
   color: green;
   text-align: center;
-  margin: 10em;
+  margin: 5em;
 }
 
 .important {
