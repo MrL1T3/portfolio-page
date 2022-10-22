@@ -1,13 +1,17 @@
 .page {
   padding: 5em;
   font-family: 'Courier New', Courier, monospace;
-  background-color:bisque;
+  background-color:rgb(222, 208, 190);
+  border-color: black;
+  border: 6px;
 }
 
 .intro {
   color: blue;
   text-align: center;
   margin: 5em;
+  border-color: black;
+  border: 5px;
 }
 
 .repos {
@@ -25,3 +29,8 @@ img {
   width: 10%;
 }
 
+.about {
+  color: blueviolet;
+  text-align: center;
+  margin: 5em;
+}
